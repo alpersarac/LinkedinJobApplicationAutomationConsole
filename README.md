@@ -1,4 +1,14 @@
 
+## Inspired By
+
+This project was inspired by the work of [aminblm] in their [LinkedIn Application Bot ] repository, which you can find [here]([link-to-their-repository](https://github.com/aminblm/linkedin-application-bot)). We acknowledge their creativity, innovative solutions, and dedication to open-source development.
+
+### Acknowledgements
+
+We would like to express our gratitude to [Author's Name] for paving the way with their excellent work. Their [Project Name] served as a valuable reference and motivation for the development of this project.
+
+If you find our project interesting, be sure to check out [Author's Name]'s original work for additional insights and inspiration.
+
 <p><strong style="color: #FF0000;">If you have any questions or would like to contribute to this project, please contact me at <a href="mailto:alper.sarac42@gmail.com" style="color: #0000FF;">alper.sarac42@gmail.com</a>.</strong></p>
 
 
