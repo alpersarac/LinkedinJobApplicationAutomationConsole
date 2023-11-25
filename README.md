@@ -1,7 +1,7 @@
 
 ## Inspired By
 
-This project was inspired by the work of [@aminblm] in their [LinkedIn Application Bot ] repository, which you can find [here]([link-to-their-repository](https://github.com/aminblm/linkedin-application-bot)). We acknowledge their creativity, innovative solutions, and dedication to open-source development.
+This project was inspired by the work of @aminblm in their LinkedIn Application Bot repository, which you can find [here]([link-to-their-repository](https://github.com/aminblm/linkedin-application-bot)). We acknowledge their creativity, innovative solutions, and dedication to open-source development.
 
 ### Acknowledgements
 
