@@ -1,13 +1,13 @@
-
 ## Inspired By
 
-This project was inspired by the work of @aminblm in their LinkedIn Application Bot repository, which you can find [here]([link-to-their-repository](https://github.com/aminblm/linkedin-application-bot)). We acknowledge their creativity, innovative solutions, and dedication to open-source development.
+This project was inspired by the work of [aminblm](https://github.com/aminblm) in their [LinkedIn Application Bot](https://github.com/aminblm/linkedin-application-bot) repository. We appreciate their efforts in creating a valuable solution for LinkedIn automation.
 
 ### Acknowledgements
 
-We would like to express our gratitude to [Author's Name] for paving the way with their excellent work. Their [Project Name] served as a valuable reference and motivation for the development of this project.
+Special thanks to [aminblm](https://github.com/aminblm) for their pioneering work on the LinkedIn Application Bot. Their project served as a foundation and inspiration for the development of this project.
 
-If you find our project interesting, be sure to check out [Author's Name]'s original work for additional insights and inspiration.
+If you find our project useful, be sure to check out [aminblm](https://github.com/aminblm)'s original [LinkedIn Application Bot](https://github.com/aminblm/linkedin-application-bot) for additional insights and features.
+
 
 <p><strong style="color: #FF0000;">If you have any questions or would like to contribute to this project, please contact me at <a href="mailto:alper.sarac42@gmail.com" style="color: #0000FF;">alper.sarac42@gmail.com</a>.</strong></p>
 
