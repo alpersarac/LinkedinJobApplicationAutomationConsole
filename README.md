@@ -1,6 +1,6 @@
 ## Inspired By
 
-This project was inspired by the work of [aminblm](https://github.com/aminblm) in their [LinkedIn Application Bot](https://github.com/aminblm/linkedin-application-bot) repository. We appreciate their efforts in creating a valuable solution for LinkedIn automation.
+This project was inspired by the work of [aminblm](https://github.com/aminblm) in their [LinkedIn Application Bot](https://github.com/aminblm/linkedin-application-bot) repository. I appreciate their efforts in creating a valuable solution for LinkedIn automation.
 
 ### Acknowledgements
 
