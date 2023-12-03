@@ -1,3 +1,5 @@
+![Alt Text](https://user-images.githubusercontent.com/34207598/128695728-6efcb457-0f75-42e2-987a-f7a0c239a235.gif)
+
 ## Inspired By
 
 This project was inspired by the work of [aminblm](https://github.com/aminblm) in their [LinkedIn Application Bot](https://github.com/aminblm/linkedin-application-bot) repository. I appreciate their efforts in creating a valuable solution for LinkedIn automation.
