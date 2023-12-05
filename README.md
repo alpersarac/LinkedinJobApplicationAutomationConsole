@@ -1,4 +1,5 @@
-![Alt Text](https://user-images.githubusercontent.com/34207598/128695728-6efcb457-0f75-42e2-987a-f7a0c239a235.gif)
+
+![ezgif-5-b60ed4d8af](https://github.com/alpersarac/LinkedinJobApplicationAutomationConsole/assets/50145163/94b1484d-c2a3-4126-a318-73af5fdde277)
 
 ## Inspired By
 
