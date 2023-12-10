@@ -13,7 +13,7 @@ If you find our project useful, be sure to check out [aminblm](https://github.co
 
 
 
-<h2 style="color: #FF0000;">To run the project</h2>
+<h2 style="color: #FF0000;">To run the project.</h2>
 <p style="color: #00FF00;">Pull the project and install dependencies and configure Config.cs file based on your preferences</p>
 <h2 style="color: #FF0000;">If you liked the project I would be grateful if give me a STAR ⭐</h2>
 
